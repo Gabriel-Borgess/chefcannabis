@@ -1,0 +1,592 @@
+[
+    {
+      "id": 1,
+      "title": "Brownie de Cannabis",
+      "image": "https://www.vmcdn.ca/f/files/greatwest/images/branded-content-features/cannabis-weekly/articles/41a_get-baked.jpg;w=760",
+      "description": "Um delicioso brownie com infusão de cannabis.",
+      "ingredients": [
+        "1/2 xícara de manteiga de cannabis derretida",
+        "1 xícara de açúcar",
+        "2 ovos",
+        "1 colher de chá de extrato de baunilha",
+        "1/3 xícara de cacau em pó",
+        "1/2 xícara de farinha de trigo",
+        "1/4 colher de chá de sal",
+        "1/4 colher de chá de bicarbonato de sódio"
+      ],
+      "instructions": [
+        "Preaqueça o forno a 180°C e unte uma forma quadrada.",
+        "Em uma tigela, misture a manteiga de cannabis derretida e o açúcar.",
+        "Adicione os ovos e o extrato de baunilha, e misture bem.",
+        "Adicione o cacau em pó, a farinha de trigo, o sal e o bicarbonato de sódio, e misture até que a massa esteja homogênea.",
+        "Despeje a massa na forma preparada e leve ao forno por 25-30 minutos, ou até que um palito saia limpo ao ser inserido no centro.",
+        "Deixe esfriar antes de cortar em pedaços."
+      ],
+      "category": "Bolos"
+    },
+    {
+      "id": 2,
+      "title": "Smoothie de Cannabis",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2018/05/marijuana-juice.jpg?quality=75&strip=all&w=1200",
+      "description": "Um smoothie refrescante com toque de cannabis.",
+      "ingredients": [
+        "1 banana madura",
+        "1/2 xícara de leite de amêndoas",
+        "1 colher de sopa de iogurte grego",
+        "1 colher de chá de mel",
+        "1 colher de chá de óleo de cannabis",
+        "Cubos de gelo"
+      ],
+      "instructions": [
+        "Coloque a banana, o leite de amêndoas, o iogurte grego, o mel e o óleo de cannabis no liquidificador.",
+        "Adicione cubos de gelo a gosto.",
+        "Bata até obter uma mistura suave e cremosa.",
+        "Sirva imediatamente."
+      ],
+      "category": "Bebidas"
+    },
+    {
+      "id": 3,
+      "title": "Cannabis Cookies",
+      "description": "Cookies de cannabis macios e deliciosos que vão alegrar o seu dia.",
+      "image": "https://missiondispensaries.com/wp-content/uploads/2023/01/cannabis-cookies-cannabis-leaves-put-white-napkin.jpg",
+      "ingredients": [
+        "2 1/4 xícaras de farinha de trigo",
+        "1/2 xícara de açúcar",
+        "1/2 xícara de açúcar mascavo",
+        "1/2 xícara de manteiga derretida",
+        "1 ovo",
+        "1 colher de chá de essência de baunilha",
+        "1/4 de xícara de maconha infundida (óleo ou manteiga)"
+      ],
+      "instructions": [
+        "Pré-aqueça o forno a 180°C.",
+        "Em uma tigela, misture a farinha, o açúcar e o açúcar mascavo.",
+        "Adicione a manteiga derretida, o ovo e a essência de baunilha. Misture bem.",
+        "Adicione a maconha infundida e misture até ficar homogêneo.",
+        "Faça bolinhas com a massa e coloque em uma assadeira forrada com papel manteiga.",
+        "Asse por 10-12 minutos ou até que as bordas estejam douradas.",
+        "Deixe esfriar antes de saborear os cookies de cannabis."
+      ],
+      "category": "Sobremesas"
+    },
+    {
+      "id": 4,
+      "title": "Smoothie de Manga e Maconha",
+      "description": "Um smoothie refrescante e energizante com um toque de cannabis.",
+      "image": "https://cannachronicle.com/wp-content/uploads/2016/01/PNG-Facebook-Images.085.png",
+      "ingredients": [
+        "1 manga madura",
+        "1/2 banana",
+        "1/2 xícara de iogurte",
+        "1/2 xícara de leite",
+        "1 colher de chá de mel",
+        "1/4 de xícara de maconha infundida (óleo ou manteiga)"
+      ],
+      "instructions": [
+        "Descasque e corte a manga e a banana.",
+        "Coloque a manga, a banana, o iogurte, o leite e o mel em um liquidificador.",
+        "Adicione a maconha infundida e bata até ficar suave.",
+        "Despeje em um copo e aproveite o smoothie."
+
+  
+    ],
+    "category": "Sobremesas"
+},
+{
+    "id": 5,
+    "title": "Pizza de Cannabis",
+    "description": "Uma pizza saborosa com uma dose extra de alegria.",
+    "image": "https://www.gethappyhemp.com/wp-content/uploads/2023/04/shutterstock_1421211077-1-scaled.jpg",
+    "ingredients": [
+      "Massa de pizza",
+      "Molho de tomate",
+      "Queijo mozarela",
+      "Pepperoni",
+      "Azeitonas pretas",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)"
+    ],
+    "instructions": [
+      "Abra a massa de pizza em uma forma.",
+      "Espalhe o molho de tomate e adicione o queijo, pepperoni e azeitonas.",
+      "Regue com a maconha infundida.",
+      "Asse no forno a 200°C até que a massa esteja dourada e o queijo derretido.",
+      "Saboreie a sua pizza de cannabis!"
+    ],
+    "category": "Pratos Principais"
+  },
+  {
+    "id": 6,
+    "title": "Creme de Abacate com Cannabis",
+    "description": "Um creme de abacate suave com um toque de cannabis.",
+    "image": "https://anamariabraga.globo.com/wp-content/uploads/2020/07/creme-de-abacate-1.jpg",
+    "ingredients": [
+      "2 abacates maduros",
+      "1/4 de xícara de creme de leite",
+      "2 colheres de sopa de mel",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "Gotas de limão a gosto"
+    ],
+    "instructions": [
+      "Descasque e retire o caroço dos abacates.",
+      "Coloque os abacates, o creme de leite, o mel e o óleo de cannabis no liquidificador.",
+      "Adicione gotas de limão a gosto.",
+      "Bata até obter um creme suave e homogêneo.",
+      "Sirva em taças e decore com raspas de limão."
+    ],
+    "category": "Sobremesas"
+  },
+  {
+    "id": 7,
+    "title": "Picolé de Cannabis e Frutas",
+    "description": "Picolés refrescantes com infusão de cannabis e frutas.",
+    "image": "/images/cannabis-popsicle.jpg",
+    "ingredients": [
+      "1 xícara de morangos",
+      "1 banana madura",
+      "1/2 xícara de iogurte natural",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "Palitos de picolé"
+    ],
+    "instructions": [
+      "Lave os morangos e corte a banana em pedaços.",
+      "Coloque os morangos, a banana, o iogurte e o óleo de cannabis no liquidificador.",
+      "Bata até obter um purê suave.",
+      "Despeje a mistura em formas de picolé e insira os palitos.",
+      "Leve ao congelador até que fiquem firmes."
+    ],
+    "category": "Sobremesas"
+  },
+  {
+    "id": 8,
+    "title": "Mac 'n' Cheese com Cannabis",
+    "description": "Macarrão com queijo cremoso e um toque especial de cannabis.",
+    "image": "/images/mac-n-cheese.jpg",
+    "ingredients": [
+      "2 xícaras de macarrão",
+      "1 xícara de queijo cheddar ralado",
+      "1/2 xícara de leite",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "Sal e pimenta a gosto"
+    ],
+    "instructions": [
+      "Cozinhe o macarrão de acordo com as instruções da embalagem.",
+      "Em uma panela, derreta o queijo cheddar com o leite e o óleo de cannabis.",
+      "Tempere com sal e pimenta a gosto.",
+      "Misture o macarrão cozido com o molho de queijo e cannabis.",
+      "Sirva quente."
+    ],
+    "category": "Pratos Principais"
+  },
+  {
+    "id": 9,
+    "title": "Chá Gelado de Cannabis e Limão",
+    "description": "Um refrescante chá gelado com limão e infusão de cannabis.",
+    "image": "/images/lemon-iced-tea.jpg",
+    "ingredients": [
+      "2 saquinhos de chá preto",
+      "1/2 xícara de suco de limão",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "Açúcar a gosto",
+      "Gelo"
+    ],
+    "instructions": [
+      "Prepare o chá preto de acordo com as instruções da embalagem.",
+      "Adoce com açúcar a gosto.",
+      "Adicione o suco de limão e o óleo de cannabis.",
+      "Resfrie o chá e sirva com gelo."
+    ],
+    "category": "Bebidas"
+  },
+  {
+    "id": 10,
+    "title": "Salmão Grelhado com Molho de Cannabis",
+    "description": "Um prato de salmão grelhado delicioso com um molho especial de cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "4 filés de salmão",
+      "Sal e pimenta a gosto",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "2 colheres de sopa de molho de soja",
+      "2 colheres de sopa de mel",
+      "Suco de 1 limão",
+      "2 dentes de alho picados"
+    ],
+    "instructions": [
+      "Tempere os filés de salmão com sal e pimenta a gosto.",
+      "Em uma tigela, misture a maconha infundida, molho de soja, mel, suco de limão e alho.",
+      "Pincele os filés de salmão com metade do molho preparado.",
+      "Pré-aqueça a grelha em fogo médio-alto e unte-a levemente.",
+      "Grelhe o salmão por cerca de 4-5 minutos de cada lado, pincelando-o com o restante do molho durante o cozimento.",
+      "Sirva o salmão grelhado com legumes de sua escolha e desfrute."
+    ],
+    "category": "Pratos Principais"
+  },
+  {
+    "id": 11,
+    "title": "Risoto de Cannabis",
+    "description": "Um risoto cremoso com infusão de cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "1 xícara de arroz para risoto",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "4 xícaras de caldo de legumes",
+      "1/2 xícara de vinho branco",
+      "1/2 xícara de queijo parmesão ralado",
+      "Sal e pimenta a gosto"
+    ],
+    "instructions": [
+      "Aqueça o caldo de legumes em uma panela.",
+      "Em outra panela, refogue a cebola e o alho na maconha infundida até ficarem macios.",
+      "Adicione o arroz e cozinhe por cerca de 2 minutos.",
+      "Despeje o vinho branco e mexa até que seja absorvido pelo arroz.",
+      "Comece a adicionar o caldo de legumes, concha por concha, mexendo constantemente até que o arroz esteja cozido.",
+      "Misture o queijo parmesão e tempere com sal e pimenta a gosto.",
+      "Sirva quente."
+    ],
+    "category": "Pratos Principais"
+  },
+  {
+    "id": 12,
+    "title": "Salada de Frutas com Cannabis",
+    "description": "Uma salada de frutas frescas com um toque especial de cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "1 xícara de morangos",
+      "1 xícara de abacaxi",
+      "1 xícara de uvas",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "1 colher de sopa de mel",
+      "Suco de meio limão",
+      "Folhas de hortelã para decorar"
+    ],
+    "instructions": [
+      "Lave e corte as frutas em pedaços.",
+      "Em uma tigela, misture a maconha infundida, mel e suco de limão.",
+      "Regue as frutas com a mistura de cannabis e mel.",
+      "Decore com folhas de hortelã e sirva gelado."
+    ],
+    "category": "Sobremesas"
+  },
+  {
+    "id": 13,
+    "title": "Panquecas de Cannabis",
+    "description": "Panquecas fofas com uma surpresa especial de cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "1 xícara de farinha de trigo",
+      "2 colheres de sopa de açúcar",
+      "1 colher de chá de fermento em pó",
+      "1/4 de colher de chá de sal",
+      "1 ovo",
+      "1 xícara de leite",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "Manteiga para untar a frigideira"
+    ],
+    "instructions": [
+      "Em uma tigela, misture a farinha, o açúcar, o fermento e o sal.",
+      "Em outra tigela, bata o ovo e o leite.",
+      "Adicione a maconha infundida à mistura de leite e ovo.",
+      "Despeje a mistura líquida na mistura de ingredientes secos e mexa até obter uma massa homogênea.",
+      "Aqueça uma frigideira e unte com manteiga.",
+      "Despeje conchas de massa na frigideira e cozinhe até dourar dos dois lados.",
+      "Sirva as panquecas com seu acompanhamento favorito."
+    ],
+    "category": "Café da Manhã"
+  },
+  {
+    "id": 14,
+    "title": "Guacamole de Cannabis",
+    "description": "Um guacamole cremoso e saboroso com infusão de cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "2 abacates maduros",
+      "1 tomate picado",
+      "1/4 de cebola picada",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "Suco de 1 limão",
+      "Sal e pimenta a gosto",
+      "Coentro picado a gosto"
+    ],
+    "instructions": [
+      "Descasque e amasse os abacates em uma tigela.",
+      "Adicione o tomate, a cebola, a maconha infundida e o suco de limão aos abacates.",
+      "Misture bem e tempere com sal e pimenta a gosto.",
+      "Adicione coentro picado a gosto para finalizar.",
+      "Sirva com chips de tortilla ou vegetais."
+    ],
+    "category": "Aperitivos"
+  },
+{
+    "id": 15,
+    "title": "Tacos de Cannabis",
+    "description": "Tacos crocantes com recheio saboroso de carne e cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "1/2 kg de carne moída",
+      "1 cebola picada",
+      "2 dentes de alho picados",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "1 colher de chá de cominho",
+      "1 colher de chá de páprica",
+      "Sal e pimenta a gosto",
+      "Tortilhas de milho",
+      "Ingredientes para guarnição (alface, tomate, queijo, creme de leite, etc.)"
+    ],
+    "instructions": [
+      "Em uma frigideira, refogue a cebola e o alho na maconha infundida até ficarem macios.",
+      "Adicione a carne moída e cozinhe até dourar, temperando com cominho, páprica, sal e pimenta.",
+      "Aqueça as tortilhas de milho.",
+      "Monte os tacos com a carne e os ingredientes de guarnição de sua escolha."
+    ],
+    "category": "Pratos Principais"
+  }
+,{
+    "id": 16,
+    "title": "Molho de Churrasco com Cannabis",
+    "description": "Um molho de churrasco delicioso com um toque especial de cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "2 xícaras de ketchup",
+      "1/2 xícara de vinagre de maçã",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "2 colheres de sopa de mel",
+      "2 colheres de sopa de molho Worcestershire",
+      "1 colher de chá de mostarda",
+      "1 colher de chá de páprica defumada",
+      "Sal e pimenta a gosto"
+    ],
+    "instructions": [
+      "Em uma panela, misture todos os ingredientes.",
+      "Leve ao fogo médio e deixe ferver.",
+      "Reduza o fogo e cozinhe por cerca de 10 minutos, mexendo ocasionalmente.",
+      "Resfrie e utilize como molho de churrasco."
+    ],
+    "category": "Molhos e Condimentos"
+  }
+,{
+    "id": 17,
+    "title": "Pudim de Cannabis",
+    "description": "Um pudim suave e irresistível com infusão de cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "2 xícaras de leite",
+      "1/2 xícara de açúcar",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "2 colheres de sopa de amido de milho",
+      "2 gemas de ovo",
+      "1 colher de chá de essência de baunilha",
+      "Pitada de sal"
+    ],
+    "instructions": [
+      "Em uma panela, aqueça o leite até ficar quente, mas não ferver.",
+      "Em outra tigela, misture o açúcar, amido de milho e sal.",
+      "Adicione as gemas de ovo e a maconha infundida, mexendo bem.",
+      "Gradualmente, adicione o leite quente à mistura, mexendo constantemente.",
+      "Leve a mistura de volta à panela e cozinhe em fogo médio-baixo até engrossar.",
+      "Retire do fogo, adicione a essência de baunilha e misture.",
+      "Despeje em taças e leve à geladeira para esfriar antes de servir."
+    ],
+    "category": "Sobremesas"
+  }
+,{
+    "id": 18,
+    "title": "Milkshake de Cannabis",
+    "description": "Um milkshake cremoso e refrescante com um toque de cannabis.",
+    "ingredients": [
+      "2 xícaras de sorvete de baunilha",
+      "1 xícara de leite",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "1 colher de sopa de chocolate em pó",
+      "Chantilly e calda de chocolate para decorar"
+    ],
+    "instructions": [
+      "No liquidificador, combine o sorvete, leite, maconha infundida e chocolate em pó.",
+      "Bata até obter um milkshake cremoso.",
+      "Despeje em copos, cubra com chantilly e decore com calda de chocolate."
+    ],
+    "category": "Bebidas"
+  },
+    {
+    "id": 19,
+    "title": "Hambúrguer de Cannabis",
+    "description": "Um hambúrguer suculento com uma pitada de cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "250g de carne moída",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "Sal e pimenta a gosto",
+      "Pão de hambúrguer",
+      "Ingredientes para acompanhamento (alface, tomate, queijo, etc.)"
+    ],
+    "instructions": [
+      "Tempere a carne moída com sal e pimenta a gosto.",
+      "Modele a carne em hambúrgueres.",
+      "Em uma frigideira quente, grelhe os hambúrgueres até atingirem o ponto de cozimento desejado.",
+      "Regue com a maconha infundida durante o cozimento.",
+      "Monte os hambúrgueres com os acompanhamentos de sua escolha."
+    ],
+    "category": "Pratos Principais"
+  },
+  {
+    "id": 20,
+    "title": "Bolo de Caneca de Cannabis",
+    "description": "Um bolo de caneca simples e rápido com infusão de cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "4 colheres de sopa de farinha de trigo",
+      "4 colheres de sopa de açúcar",
+      "2 colheres de sopa de cacau em pó",
+      "1/8 de colher de chá de fermento em pó",
+      "1/8 de colher de chá de sal",
+      "3 colheres de sopa de leite",
+      "2 colheres de sopa de maconha infundida (óleo ou manteiga)",
+      "Gotas de baunilha a gosto"
+    ],
+    "instructions": [
+      "Em uma caneca, misture a farinha, o açúcar, o cacau, o fermento e o sal.",
+      "Adicione o leite, a maconha infundida e as gotas de baunilha à caneca.",
+      "Misture bem até obter uma massa homogênea.",
+      "Leve a caneca ao micro-ondas por cerca de 1-2 minutos, ou até que o bolo esteja cozido.",
+      "Deixe esfriar um pouco antes de saborear seu bolo de caneca de cannabis."
+    ],
+    "category": "Sobremesas"
+  },
+  {
+    "id": 21,
+    "title": "Salada de Cannabis e Frango",
+    "description": "Uma salada leve e saborosa com frango e cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "2 peitos de frango cozidos e desfiados",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "Alface",
+      "Tomate-cereja",
+      "Abacate",
+      "Molho de salada a gosto"
+    ],
+    "instructions": [
+      "Em uma tigela grande, misture o frango desfiado com a maconha infundida até ficar bem revestido.",
+      "Em pratos individuais, disponha folhas de alface, tomate-cereja e pedaços de abacate.",
+      "Coloque a mistura de frango por cima.",
+      "Regue com o molho de salada de sua escolha."
+    ],
+    "category": "Pratos Principais"
+  },
+  {
+    "id": 23,
+    "title": "Sorvete de Cannabis",
+    "description": "Um sorvete cremoso com um toque de cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "2 xícaras de creme de leite",
+      "1 xícara de leite",
+      "3/4 de xícara de açúcar",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "Extrato de baunilha a gosto",
+      "Gotas de corante alimentar a gosto (opcional)"
+    ],
+    "instructions": [
+      "Em uma tigela, misture o creme de leite, o leite, o açúcar e a maconha infundida.",
+      "Adicione o extrato de baunilha e o corante alimentar, se desejar.",
+      "Despeje a mistura em uma máquina de sorvete e siga as instruções do fabricante.",
+      "Congele o sorvete por algumas horas antes de servir."
+    ],
+    "category": "Sobremesas"
+  },
+  {
+    "id": 24,
+    "title": "Muffins de Cannabis",
+    "description": "Muffins fofos com um toque especial de cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "1 1/2 xícaras de farinha de trigo",
+      "1/2 xícara de açúcar",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "2 ovos",
+      "1/2 xícara de leite",
+      "1 colher de chá de fermento em pó",
+      "Pitada de sal",
+      "Gotas de essência de baunilha a gosto"
+    ],
+    "instructions": [
+      "Pré-aqueça o forno a 180°C e prepare uma forma para muffins com forminhas de papel.",
+      "Em uma tigela, misture a farinha, o açúcar, o fermento e o sal.",
+      "Em outra tigela, misture a maconha infundida, os ovos, o leite e a essência de baunilha.",
+      "Combine os ingredientes secos e úmidos, mexendo delicadamente.",
+      "Divida a massa entre as forminhas de muffins e asse por cerca de 20-25 minutos.",
+      "Deixe esfriar antes de servir."
+    ],
+    "category": "Lanches"
+  },
+  {
+    "id": 25,
+    "title": "Salada de Quinoa com Cannabis",
+    "description": "Uma salada saudável com quinoa e um toque de cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "1 xícara de quinoa cozida",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "Legumes picados (pimentão, pepino, tomate, etc.)",
+      "Salsinha picada",
+      "Suco de limão",
+      "Sal e pimenta a gosto"
+    ],
+    "instructions": [
+      "Em uma tigela, misture a quinoa cozida com a maconha infundida.",
+      "Adicione os legumes picados e a salsinha.",
+      "Tempere com suco de limão, sal e pimenta a gosto.",
+      "Misture bem e sirva como uma salada saudável."
+    ],
+    "category": "Pratos Principais"
+  },
+  {
+    "id": 26,
+    "title": "Pasta de Amendoim de Cannabis",
+    "description": "Uma pasta de amendoim com infusão de cannabis para lanches deliciosos.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "2 xícaras de amendoins torrados sem sal",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "Sal a gosto",
+      "Mel a gosto (opcional)"
+    ],
+    "instructions": [
+      "Coloque os amendoins em um processador de alimentos e triture até obter uma pasta grossa.",
+      "Adicione a maconha infundida e uma pitada de sal.",
+      "Continue a processar até obter uma consistência suave.",
+      "Adoce com mel, se desejar.",
+      "Armazene em um recipiente hermético e use como um delicioso acompanhamento ou lanche."
+    ],
+    "category": "Lanches"
+  },
+  {
+    "id": 27,
+    "title": "Arroz Frito de Cannabis",
+    "description": "Um arroz frito saboroso com um toque especial de cannabis.",
+    "image": "insira_aqui_o_link_da_imagem",
+    "ingredients": [
+      "2 xícaras de arroz cozido",
+      "1/4 de xícara de maconha infundida (óleo ou manteiga)",
+      "Legumes picados (cenoura, ervilhas, pimentão, etc.)",
+      "2 ovos batidos",
+      "Molho de soja a gosto",
+      "Cebolinha picada para decorar"
+    ],
+    "instructions": [
+      "Em uma frigideira, aqueça a maconha infundida e adicione os legumes picados.",
+      "Refogue até que os legumes estejam macios.",
+      "Empurre os legumes para um lado da frigideira e despeje os ovos batidos no lado vazio.",
+      "Mexa até que os ovos estejam cozidos e misture com os legumes.",
+      "Adicione o arroz cozido e molho de soja a gosto, misturando bem.",
+      "Sirva com cebolinha picada por cima."
+    ],
+    "category": "Pratos Principais"
+  }
+          
+  
+  
+]
+  

@@ -25,3 +25,12 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+/* styles.css ou seu arquivo de estilos personalizado */
+.header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/header.jpg');
+  background-repeat: no-repeat; /* Evita repetição da imagem de fundo */
+  background-size: cover; /* Ajusta a imagem para cobrir todo o cabeçalho */
+  background-position: center;
+  margin: 10px;
+}
+
