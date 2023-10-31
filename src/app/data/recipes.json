@@ -140,7 +140,7 @@
     "id": 7,
     "title": "Picolé de Cannabis e Frutas",
     "description": "Picolés refrescantes com infusão de cannabis e frutas.",
-    "image": "/images/cannabis-popsicle.jpg",
+    "image": "https://images.squarespace-cdn.com/content/v1/5541baefe4b0d1854a60b4bc/1624584993715-QJ2YDJ1JXVN2538F1E0T/WellFounded_SousWeed_Popsicles-8892_1x1.jpg",
     "ingredients": [
       "1 xícara de morangos",
       "1 banana madura",
@@ -161,7 +161,7 @@
     "id": 8,
     "title": "Mac 'n' Cheese com Cannabis",
     "description": "Macarrão com queijo cremoso e um toque especial de cannabis.",
-    "image": "/images/mac-n-cheese.jpg",
+    "image": "https://naminhapanela.com/wp-content/uploads/2023/07/Macarrao-com-queijo-2-720x540.jpg",
     "ingredients": [
       "2 xícaras de macarrão",
       "1 xícara de queijo cheddar ralado",
@@ -182,7 +182,7 @@
     "id": 9,
     "title": "Chá Gelado de Cannabis e Limão",
     "description": "Um refrescante chá gelado com limão e infusão de cannabis.",
-    "image": "/images/lemon-iced-tea.jpg",
+    "image": "https://img.freepik.com/fotos-premium/um-copo-de-cha-de-maconha-quente-na-mesa-de-madeira-cha-de-ervas-de-cannabis-com-folhas-secas_35378-3273.jpg?size=626&ext=jpg",
     "ingredients": [
       "2 saquinhos de chá preto",
       "1/2 xícara de suco de limão",
@@ -202,7 +202,7 @@
     "id": 10,
     "title": "Salmão Grelhado com Molho de Cannabis",
     "description": "Um prato de salmão grelhado delicioso com um molho especial de cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://www.receitas-sem-fronteiras.com/uploads/recipe/receita-do-dia-salmao-grelhado-ao-molho-de-maracuja_crop.jpg?1549459000",
     "ingredients": [
       "4 filés de salmão",
       "Sal e pimenta a gosto",
@@ -226,7 +226,7 @@
     "id": 11,
     "title": "Risoto de Cannabis",
     "description": "Um risoto cremoso com infusão de cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://www.royalqueenseeds.com/modules/prestablog/themes/royalqueenseeds/up-img/1075.jpg",
     "ingredients": [
       "1 xícara de arroz para risoto",
       "1/4 de xícara de maconha infundida (óleo ou manteiga)",
@@ -252,7 +252,7 @@
     "id": 12,
     "title": "Salada de Frutas com Cannabis",
     "description": "Uma salada de frutas frescas com um toque especial de cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk4AoLjcYNtqfJbBJTaEb4aXYMm7AFBdsJl6I9Kru41cEKlL11Lz7bqmiv3lBJFWyvUfI&usqp=CAU",
     "ingredients": [
       "1 xícara de morangos",
       "1 xícara de abacaxi",
@@ -274,7 +274,7 @@
     "id": 13,
     "title": "Panquecas de Cannabis",
     "description": "Panquecas fofas com uma surpresa especial de cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://herbiesheadshop.com/resized/original/common/94/cannabis-infused-pancakes__O3Hc5UA0eraNJ04g.jpg",
     "ingredients": [
       "1 xícara de farinha de trigo",
       "2 colheres de sopa de açúcar",
@@ -300,7 +300,7 @@
     "id": 14,
     "title": "Guacamole de Cannabis",
     "description": "Um guacamole cremoso e saboroso com infusão de cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://emilykylenutrition.com/wp-content/uploads/2021/09/Easy-Cannabis-Guacamole.png",
     "ingredients": [
       "2 abacates maduros",
       "1 tomate picado",
@@ -323,7 +323,7 @@
     "id": 15,
     "title": "Tacos de Cannabis",
     "description": "Tacos crocantes com recheio saboroso de carne e cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://www-infusedeats-com.exactdn.com/wp-content/uploads/2018/11/Cannabis-Infused-Taco-Beef-Cannabasics-89.jpg?strip=all&lossy=1&ssl=1",
     "ingredients": [
       "1/2 kg de carne moída",
       "1 cebola picada",
@@ -347,7 +347,7 @@
     "id": 16,
     "title": "Molho de Churrasco com Cannabis",
     "description": "Um molho de churrasco delicioso com um toque especial de cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://img.freepik.com/fotos-premium/conceito-de-erva-de-natureza-alimentar-de-cannabis-coxa-de-frango-frito-no-prato_73523-5657.jpg?size=626&ext=jpg",
     "ingredients": [
       "2 xícaras de ketchup",
       "1/2 xícara de vinagre de maçã",
@@ -370,14 +370,14 @@
     "id": 17,
     "title": "Pudim de Cannabis",
     "description": "Um pudim suave e irresistível com infusão de cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://www.zativo.com/modules/psblog/uploads/1456997742.jpg",
     "ingredients": [
       "2 xícaras de leite",
       "1/2 xícara de açúcar",
       "1/4 de xícara de maconha infundida (óleo ou manteiga)",
       "2 colheres de sopa de amido de milho",
       "2 gemas de ovo",
-      "1 colher de chá de essência de baunilha",
+      "1 colher de chá de essência de chocolate",
       "Pitada de sal"
     ],
     "instructions": [
@@ -395,6 +395,7 @@
     "id": 18,
     "title": "Milkshake de Cannabis",
     "description": "Um milkshake cremoso e refrescante com um toque de cannabis.",
+    "image": "https://cannabis.net/drive/1000/3743_6MFS_cannabismilkshake.jpg",
     "ingredients": [
       "2 xícaras de sorvete de baunilha",
       "1 xícara de leite",
@@ -413,7 +414,7 @@
     "id": 19,
     "title": "Hambúrguer de Cannabis",
     "description": "Um hambúrguer suculento com uma pitada de cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://i0.wp.com/smokebuddies.com.br/wp-content/uploads/2021/03/hamburguer.jpg?fit=900%2C506&ssl=1",
     "ingredients": [
       "250g de carne moída",
       "1/4 de xícara de maconha infundida (óleo ou manteiga)",
@@ -434,7 +435,7 @@
     "id": 20,
     "title": "Bolo de Caneca de Cannabis",
     "description": "Um bolo de caneca simples e rápido com infusão de cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://us.123rf.com/450wm/naonovoa/naonovoa2205/naonovoa220500224/186797226-caneca-branca-com-infus%C3%A3o-de-maconha-na-mesa-de-m%C3%A1rmore-com-folhas.jpg",
     "ingredients": [
       "4 colheres de sopa de farinha de trigo",
       "4 colheres de sopa de açúcar",
@@ -458,7 +459,7 @@
     "id": 21,
     "title": "Salada de Cannabis e Frango",
     "description": "Uma salada leve e saborosa com frango e cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://cdn0.tudoreceitas.com/pt/posts/0/9/2/salada_caesar_com_frango_e_croutons_1290_orig.jpg",
     "ingredients": [
       "2 peitos de frango cozidos e desfiados",
       "1/4 de xícara de maconha infundida (óleo ou manteiga)",
@@ -473,13 +474,13 @@
       "Coloque a mistura de frango por cima.",
       "Regue com o molho de salada de sua escolha."
     ],
-    "category": "Pratos Principais"
+    "category": "Saladas"
   },
   {
     "id": 23,
     "title": "Sorvete de Cannabis",
     "description": "Um sorvete cremoso com um toque de cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://kayamind.com/wp-content/uploads/2023/06/sorvete-canabico.jpg.webp",
     "ingredients": [
       "2 xícaras de creme de leite",
       "1 xícara de leite",
@@ -500,7 +501,7 @@
     "id": 24,
     "title": "Muffins de Cannabis",
     "description": "Muffins fofos com um toque especial de cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://www.royalqueenseeds.com/modules/prestablog/themes/royalqueenseeds/up-img/301.jpg",
     "ingredients": [
       "1 1/2 xícaras de farinha de trigo",
       "1/2 xícara de açúcar",
@@ -519,13 +520,13 @@
       "Divida a massa entre as forminhas de muffins e asse por cerca de 20-25 minutos.",
       "Deixe esfriar antes de servir."
     ],
-    "category": "Lanches"
+    "category": "Sobremesas"
   },
   {
     "id": 25,
     "title": "Salada de Quinoa com Cannabis",
     "description": "Uma salada saudável com quinoa e um toque de cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://veganandcolors.com/wp-content/uploads/2020/01/2-1024x652.jpg",
     "ingredients": [
       "1 xícara de quinoa cozida",
       "1/4 de xícara de maconha infundida (óleo ou manteiga)",
@@ -540,13 +541,13 @@
       "Tempere com suco de limão, sal e pimenta a gosto.",
       "Misture bem e sirva como uma salada saudável."
     ],
-    "category": "Pratos Principais"
+    "category": "Saladas"
   },
   {
     "id": 26,
     "title": "Pasta de Amendoim de Cannabis",
     "description": "Uma pasta de amendoim com infusão de cannabis para lanches deliciosos.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://kayamind.com/wp-content/uploads/2023/10/pasta-de-amendoim-canabica.jpg",
     "ingredients": [
       "2 xícaras de amendoins torrados sem sal",
       "1/4 de xícara de maconha infundida (óleo ou manteiga)",
@@ -566,7 +567,7 @@
     "id": 27,
     "title": "Arroz Frito de Cannabis",
     "description": "Um arroz frito saboroso com um toque especial de cannabis.",
-    "image": "insira_aqui_o_link_da_imagem",
+    "image": "https://img.freepik.com/fotos-premium/arroz-mezcla-hojas-cannabis-desarrollado-amantes-salud-nuevo_723895-1134.jpg",
     "ingredients": [
       "2 xícaras de arroz cozido",
       "1/4 de xícara de maconha infundida (óleo ou manteiga)",
