@@ -4,6 +4,8 @@
 
 O ChefCannabis é um website que oferece uma variedade de receitas de culinária com infusão de cannabis. Explore diferentes pratos e aprenda a preparar refeições deliciosas usando cannabis como ingrediente. Além disso, você pode compartilhar suas receitas favoritas com seus amigos e familiares.
 
+## ![Site](public/headergithub.png)
+
 ## Funcionalidades
 
 - Navegação fácil e intuitiva para encontrar receitas.
