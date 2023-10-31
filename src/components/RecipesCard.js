@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHeart, faShare } from '@fortawesome/free-solid-svg-icons';
+import { faShare } from '@fortawesome/free-solid-svg-icons';
 
 const RecipesCard = ({ recipe, onClick }) => {
   const [isFavorite, setIsFavorite] = useState(false);
@@ -11,8 +11,18 @@ const RecipesCard = ({ recipe, onClick }) => {
   };
 
   const handleShare = () => {
-    // Implemente a lógica para compartilhar a receita.
-    alert(`Compartilhando a receita: ${recipe.title}`);
+    if (navigator.share) {
+      navigator
+        .share({
+          title: recipe.title,
+          text: recipe.description,
+          url: window.location.href,
+        })
+        .then(() => console.log("Link compartilhado com sucesso"))
+        .catch((error) => console.error("Erro ao compartilhar:", error));
+    } else {
+      alert("A funcionalidade de compartilhamento não é suportada no seu navegador.");
+    }
   };
 
   return (
@@ -29,33 +39,20 @@ const RecipesCard = ({ recipe, onClick }) => {
         <div className="absolute top-0 left-0 p-2 bg-green-500 text-white rounded-tr-lg">
           {recipe.category}
         </div>
+        <div className="absolute top-0 right-0 p-2">
+          <button onClick={handleShare} className="text-green-500 hover:text-green-700">
+            <FontAwesomeIcon icon={faShare} />
+          </button>
+        </div>
       </div>
       <div className="p-4">
         <h2 className="text-xl font-semibold mb-2">{recipe.title}</h2>
-        <p className="text-gray-600 mb-4">{recipe.description}</p>
+        <p className="text-gray-600 mb-2">{recipe.description}</p>
         <div className="flex justify-between items-center">
-          <div>
-            <button
-              onClick={() => onClick(recipe)}
-              className="bg-green-500 text-white px-4 py-2 rounded-md hover:bg-green-600 hover:shadow"
-            >
-              Ver Receita
-            </button>
-          </div>
-          <div>
-            <button
-              onClick={handleFavorite}
-              className={`text-red-500 hover:text-red-700 mr-2 ${isFavorite ? 'text-red-700' : ''}`}
-            >
-              <FontAwesomeIcon icon={faHeart} /> Salvar
-            </button>
-            <button
-              onClick={handleShare}
-              className="text-blue-500 hover:text-blue-700"
-            >
-              <FontAwesomeIcon icon={faShare} /> Compartilhar
-            </button>
-          </div>
+          <p className="text-gray-600">{recipe.start}</p>
+          <button onClick={() => onClick(recipe)} className="bg-green-500 text-white px-4 py-2 rounded-md hover:bg-green-600 hover:shadow">
+            Ver Receita
+          </button>
         </div>
       </div>
     </div>

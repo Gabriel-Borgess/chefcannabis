@@ -1,26 +1,8 @@
 "use client"
-import React, { useState } from 'react';
-import FavoritesPopup from '../components/FavoritesPopup';
+import React from 'react';
 
 export default function Navbar({ fixed }) {
   const [navbarOpen, setNavbarOpen] = React.useState(false);
-  const [showFavoritesPopup, setShowFavoritesPopup] = React.useState(false);
-  const [favoriteRecipes, setFavoriteRecipes] = React.useState([]);
-
-  // Função para abrir o popup de favoritos
-  const openFavoritesPopup = () => {
-    // Simulação de receitas favoritas
-    const favorites = [
-      { title: 'Receita 1', description: 'Descrição da Receita 1' },
-      { title: 'Receita 2', description: 'Descrição da Receita 2' },
-    ];
-
-    // Defina as receitas favoritas no estado
-    setFavoriteRecipes(favorites);
-
-    // Abra o popup
-    setShowFavoritesPopup(true);
-  };
 
   const shareSite = () => {
     const currentURL = window.location.href;
@@ -75,24 +57,10 @@ export default function Navbar({ fixed }) {
                   <span className="ml-2">Compartilhe</span>
                 </a>
               </li>
-              <li className="nav-item">
-                <button
-                  className="px-3 py-2 flex items-center text-base uppercase font-bold leading-snug text-white hover:opacity-75"
-                  onClick={openFavoritesPopup}
-                >
-                  <i className="fab fa-pinterest text-xl leading-lg text-white opacity-75"></i>
-                  <span className="ml-2">Favoritos</span>
-                </button>
-              </li>
             </ul>
           </div>
         </div>
       </nav>
-      <FavoritesPopup
-        isOpen={showFavoritesPopup}
-        onRequestClose={() => setShowFavoritesPopup(false)}
-        favoriteRecipes={favoriteRecipes}
-      />
     </>
   );
 }

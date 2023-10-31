@@ -1,39 +1,12 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHeart, faShare } from '@fortawesome/free-solid-svg-icons';
-const RecipesPopup = ({ recipe, onClose }) => {
-  const [rating, setRating] = useState(0);
-  const [comment, setComment] = useState('');
-  const [comments, setComments] = useState([]);
+import { faShare } from '@fortawesome/free-solid-svg-icons';
 
+const RecipesPopup = ({ recipe, onClose, handleShare }) => {
   const handleOverlayClick = (e) => {
     if (e.target === e.currentTarget) {
       onClose();
     }
-  };
-
-  const handleRatingChange = (event) => {
-    setRating(Number(event.target.value));
-  };
-
-  const handleCommentChange = (event) => {
-    setComment(event.target.value);
-  };
-
-  const handleSubmitComment = () => {
-    if (rating === 0) {
-      alert('Por favor, selecione uma avaliação antes de enviar o comentário.');
-      return;
-    }
-
-    const newComment = {
-      rating,
-      text: comment,
-    };
-
-    setComments([...comments, newComment]);
-    setRating(0);
-    setComment('');
   };
 
   return (
@@ -44,13 +17,15 @@ const RecipesPopup = ({ recipe, onClose }) => {
       <div className="fixed top-16 w-4/5 md:w-3/5 h-4/5 overflow-y-auto bg-white rounded-lg shadow-lg z-50">
         <button
           onClick={onClose}
-          className="absolute top-4 right-4 text-white hover:text-red-600 text-4xl"
+          className="absolute top-4 right-4 text-3xl text-gray-700 hover:text-red-600"
         >
           &times;
         </button>
-        <img src={recipe.image} alt={recipe.title} className="w-full h-60 object-cover rounded-t-lg" />
+        <div className="relative h-60 md:h-80 overflow-hidden rounded-t-lg">
+          <img src={recipe.image} alt={recipe.title} className="w-full h-full object-cover" />
+        </div>
         <div className="p-6">
-          <h2 className="text-2xl font-semibold">{recipe.title}</h2>
+          <h2 className="text-3xl font-semibold mb-2">{recipe.title}</h2>
           <p className="text-gray-600 my-4">{recipe.description}</p>
           <div className="mt-6">
             <h3 className="text-xl font-semibold">Ingredientes:</h3>
@@ -69,63 +44,13 @@ const RecipesPopup = ({ recipe, onClose }) => {
             </ol>
           </div>
           <div className="mt-6">
-            <h3 className="text-xl font-semibold">Avaliação e Comentários:</h3>
-            <div className="mt-4">
-              <h4 className="text-lg font-semibold">Avaliação:</h4>
-              <div className="flex items-center">
-                {[1, 2, 3, 4, 5].map((star) => (
-                  <label key={star} className="text-2xl text-yellow-400">
-                    <input
-                      type="radio"
-                      name="rating"
-                      value={star}
-                      onClick={handleRatingChange}
-                      checked={star === rating}
-                    />
-                    ★
-                  </label>
-                ))}
-                <p className="ml-2">Avaliação: {rating} estrela(s)</p>
-              </div>
-            </div>
-            <div className="mt-4">
-              <h4 className="text-lg font-semibold">Comentários:</h4>
-              <textarea
-                value={comment}
-                onChange={handleCommentChange}
-                className="w-full p-2 rounded-md border border-gray-300"
-                rows={4}
-              />
-            </div>
-            <button
-              onClick={handleSubmitComment}
-              className="mt-4 p-2 bg-green-500 text-white rounded-md hover:bg-green-600"
-            >
-              Enviar Comentário
-            </button>
-            <div className="mt-4">
-              {comments.map((comment, index) => (
-                <div key={index} className="border border-gray-300 p-2 rounded-md">
-                  <p className="text-xl font-semibold">Avaliação: {comment.rating} estrela(s)</p>
-                  <p>{comment.text}</p>
-                </div>
-              ))}
-              <div className="mt-4">
-  <div className="flex items-center">
-    <button
-      onClick={() => handleFavorite(recipe)}
-      className="text-red-500 hover:text-red-700"
-    >
-      <FontAwesomeIcon icon={faHeart} /> Favoritar
-    </button>
-    <button
-      onClick={() => handleShare(recipe)}
-      className="text-blue-500 hover:text-blue-700 ml-4"
-    >
-      <FontAwesomeIcon icon={faShare} /> Compartilhar
-    </button>
-  </div>
-</div>
+            <div className="flex items-center justify-between">
+              <button
+                onClick={() => handleShare(recipe)}
+                className="flex items-center text-blue-500 hover:text-blue-700"
+              >
+                <FontAwesomeIcon icon={faShare} className="mr-2" /> Compartilhar
+              </button>
             </div>
           </div>
         </div>
